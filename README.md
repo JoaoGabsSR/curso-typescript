@@ -1,0 +1,4 @@
+<h1>Curso de Typescript</h1>
+
+<p>Programa que fazer registros de negcociações, desenvolvido aolongo de de uma formação de Typescript na Alura onde a mesma é composta por três cursos. No primeiro curso foi ensinado um básico, como preparar o ambiente de desenvolvimento, sobre como configurar o compilador, e como iniciar com o typescript. 
+No segundo curso passamos para conceitos mais complexos e avnaçados, como uso de classes abstratas, interfaces, e demos início ao uso de conceitos de OOP, além de como é a organização de pastas. Por fim no terceiro curso aprendemos sobre decorators e finalizamos sobre como usar OOP com o Polimorfismos e vimos mais padrões de organização de pastas em projetos.</p>
